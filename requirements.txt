@@ -1,0 +1,17 @@
+pyperclip
+send2trash 
+requests
+requests-cache 
+beautifulsoup4
+selenium
+openpyxl
+PyPDF2
+python-docx
+imapclient
+twilio
+pillow
+pyautogui 
+pyreadline
+python-nmap 
+pyjwt
+shodan
