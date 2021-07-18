@@ -6,7 +6,7 @@ The scripts developed in this repository is for beginners in Cybersecurity who a
 NOTE: Ensure to use python3 
 ``` 
 $ git clone https://github.com/zidelnet/SheHacks2021.git
-$ cd SheHacks2021
+$ cd SheHacks2021-main
 ```
 
 
