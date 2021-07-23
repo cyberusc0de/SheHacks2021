@@ -30,6 +30,6 @@ print("Location:  \t" + respond["loc"])
 print("Region:    \t" + respond["region"])
 print("City:      \t" + respond["city"]) 
 print("Country:   \t" + respond["country"])
-#print("hostname:  \t" + respond["hostname"])
-#print("Timezone:  \t" + respond["timezone\n"])    
+'''print("hostname:  \t" + respond["hostname"])
+print("Timezone:  \t" + respond["timezone\n"]) '''
     
