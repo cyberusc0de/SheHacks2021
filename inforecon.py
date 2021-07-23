@@ -12,7 +12,7 @@ import socket
 import json 
 
 if len(sys.argv) < 2: 
-    print("Usage: " + sys.argv[0] + "<url>")
+    print("Usage: " + sys.argv[0] + " <domain_name>")
     sys.exit(0)
 
 print("Information Gathering on " + sys.argv[1] + " in progress ...")
